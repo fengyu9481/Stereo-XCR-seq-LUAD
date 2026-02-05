@@ -1,5 +1,4 @@
 # Stereo-XCR-seq-LUAD
-# stereo-xcr-seq
 
 ## Description
 
